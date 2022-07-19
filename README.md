@@ -1,4 +1,4 @@
-# React Todo App 🔥🔥🔥
+# React Todo App 🔥🔥🔥🔥
 
   This project is a simple react application "Todo list" where you can add or delete todos also marke the completed ones as complete 
 
